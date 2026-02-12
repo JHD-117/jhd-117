@@ -61,6 +61,12 @@
 
 ###
 
+###
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JHD-117&theme=black-ice&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+
+###
+
 <img src="https://raw.githubusercontent.com/jhonnier-117/jhonnier-117/output/snake.svg" alt="Snake animation" />
 
 ###
