@@ -20,6 +20,10 @@
 
 ###
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JHD-117&theme=black-ice&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
@@ -58,12 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jhonnier-117&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=false&order=1" height="100" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonnier-117&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-###
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JHD-117&theme=black-ice&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
 ###
 
